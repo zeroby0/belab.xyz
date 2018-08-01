@@ -1,0 +1,22 @@
+{ 
+  "name": "belab",
+  "version": "1.0.0",
+  "description": "Repository for Course Material and Guides for the Basic Electtronics course",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeroby0/belab.xyz.git"
+  },
+  "author": "Aravind Reddy V <aravind.reddy@iiitb.org>",
+  "bugs": {
+    "url": "https://github.com/zeroby0/belab.xyz/issues"
+  },
+  "homepage": "https://belab.xyz",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^0.13.0"
+  }
+}
