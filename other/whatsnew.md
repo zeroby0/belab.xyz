@@ -1,5 +1,7 @@
 # What's new?
 
+Current Version: 1.0.1 - Last updated on 1st August, 2018, 10:25:21 PM
+
 Version 1.0.0
 -------------
 
