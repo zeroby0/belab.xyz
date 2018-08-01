@@ -1,0 +1,2 @@
+[build]
+publish = "project/build-output/"

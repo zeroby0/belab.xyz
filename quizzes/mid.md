@@ -1,0 +1,34 @@
+# Midterm
+
+Midterm date, syllabus and questions will be uploaded here
+
+<div class="article_sol" id="soldiv"><p class="offliner-button">You can save this page offline</p></div>
+
+| Roll Number        | Name                          | Total  | Rank |
+| -------------------|-------------------------------|--------|------|
+| IMT2017501         | Aare Srinivasa Reddy          | 0      |   0  |
+| IMT2017502         | Ajay Ramesh Ranganathan       | 0      |   0  |
+| IMT2017503         | Anubhav Mishra                | 0      |   0  |
+| IMT2017504         | Anurag Pendyala               | 0      |   0  |
+| IMT2017505         | Cherukuri Revanth Kumar       | 0      |   0  |
+| IMT2017506         | Gaurav Mishra                 | 0      |   0  |
+| IMT2017507         | Goli Akshay Sujith            | 0      |   0  |
+| IMT2017508         | Himanshu Sharma               | 0      |   0  |
+| IMT2017509         | Jurair Hamid Bhat             | 0      |   0  |
+| IMT2017510         | Kayyuru Prakash               | 0      |   0  |
+| IMT2017511         | Kocherla Nithin Raj           | 0      |   0  |
+| IMT2017512         | KLK Mohith Sharma             | 0      |   0  |
+| IMT2017513         | Mili Goyal                    | 0      |   0  |
+| IMT2017514         | Naga Sri Vaishnavi Dhulipalla | 0      |   0  |
+| IMT2017515         | Om sai Nithish Reddy          | 0      |   0  |
+| IMT2017516         | Poddutur Harish Reddy        | 0      |   0  |
+| IMT2017517         | Prateksha U                   | 0      |   0  |
+| IMT2017518         | Pratyush Nandi                | 0      |   0  |
+| IMT2017519         | R Arvind                      | 0      |   0  |
+| IMT2017520         | RVS Ajith                     | 0      |   0  |
+| IMT2017521         | Ram S                         | 0      |   0  |
+| IMT2017522         | Rathin Bhargava               | 0      |   0  |
+| IMT2017523         | Ronak Vipul Doshi             | 0      |   0  |
+| IMT2017524         | Sailesh Kalyanapu             | 0      |   0  |
+| IMT2017525         | Sivaramannagari S             | 0      |   0  |
+| IMT2017526         | Sri sai Chandana              | 0      |   0  |
