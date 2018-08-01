@@ -4,7 +4,13 @@ This program is the `Hello World` of sorts for an Arduino. We light up an LED an
 
 ![LED pinout](./ledblink/led_pinout.png)
 
-The longer wire on your LED is the positive terminal, aka Anode. Always connect the Anode to the +ve voltage. Make sure that a resistor is in series with the LED or the LED will let out the [magic smoke](http://www2.ece.rochester.edu/courses/ECE113/materials/smoke.pdf) and die.
+::: tip
+The longer wire on your LED is the positive terminal, aka Anode. Always connect the Anode to the +ve voltage. 
+:::
+
+::: danger
+Make sure that a resistor is in series with the LED or the LED will let out the [magic smoke](http://www2.ece.rochester.edu/courses/ECE113/materials/smoke.pdf) and die.
+:::
 
 Connect the Anode of the LED to Digital Pin 13 of the Arduino and connect the other pin to Ground **_via_** the resistor. Like shown below. Use a breadboard.
 
