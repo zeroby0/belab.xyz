@@ -1,2 +1,6 @@
 # Redirect domain aliases to primary domain
 https://www.belab.xyz/* https://app.belab.xyz/:splat 301!
+
+# Redirect root domain to primary domain
+https://belab.xyz/* https://app.belab.xyz/:splat 301!
+
