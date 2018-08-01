@@ -4,6 +4,12 @@ module.exports = {
   description: 'Introduction to Electronics',
   serviceWorker: true,
   themeConfig: {
+    serviceWorker: {
+      updatePopup: {
+         message: "New content is available.", 
+         buttonText: "Refresh",
+      },
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Labs', items: labLinks() },
