@@ -4,12 +4,13 @@ module.exports = {
   description: 'Introduction to Electronics',
   serviceWorker: true,
   themeConfig: {
+
     serviceWorker: {
-      updatePopup: {
-         message: "New content is available.", 
-         buttonText: "Refresh",
-      },
+      updatePopup: true,
     },
+
+    lastUpdated: 'Last Updated',
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Labs', items: labLinks() },
@@ -21,6 +22,7 @@ module.exports = {
       { text: 'Other', items: otherLinks() },
 
     ]
+
   }
 }
 
