@@ -1,3 +1,9 @@
+---
+title: What's new
+footer: MIT Licensed | Copyright © 2018-present Dr. Madhav Rao, IIITB and Aravind Reddy, IIITB
+---
+
+
 # What's new?
 
 Current Version: 1.0.4 - Last updated on 2nd August, 2018, 12:13 AM

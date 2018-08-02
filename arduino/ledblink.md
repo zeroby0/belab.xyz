@@ -1,3 +1,14 @@
+---
+title: LED Blink
+lang: en-US
+meta:
+  - name: description
+    content: LED Blink example
+  - name: keywords
+    content: Arduino LED Blink Example Tutorial
+---
+
+
 # LED Blink
 
 This program is the `Hello World` of sorts for an Arduino. We light up an LED and make it blink. Collect an LED and a resistor from your lab instructor. A 1k resistor should do just fine.

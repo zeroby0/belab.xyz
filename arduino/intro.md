@@ -1,3 +1,13 @@
+---
+title: Introduction to Arduino
+lang: en-US
+meta:
+  - name: description
+    content: Introduction to Arduino microcontroller
+  - name: keywords
+    content: Arduino Introduction
+---
+
 # Introduction
 
 Arduino is a programmable microcontroller. Much like how you control your computer with programs, you can control an Arduino with a C program. Below is an image of the Arduino _Uno_ microcontroller.
