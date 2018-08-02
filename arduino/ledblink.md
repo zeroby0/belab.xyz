@@ -6,6 +6,8 @@ meta:
     content: LED Blink example
   - name: keywords
     content: Arduino LED Blink Example Tutorial
+prev: ./intro.md
+next: false
 ---
 
 
@@ -38,7 +40,7 @@ Sketch
 
 Programs in Arduino IDE are called _Sketches_. Open a new Sketch. It should look something like this.
 
-```
+``` c
 void setup() {
 
 }
@@ -53,7 +55,7 @@ All the code in `setup() {}` is run once. Things like setting pin-mode are put h
 
 First, initialise the pin 13 as OUTPUT. Then set it as HIGH using the `digitalWrite()` function.
 
-```
+``` c{2,6}
 void setup() {
   pinMode(13, OUTPUT);     // Set pin 13 as Output
 }
@@ -65,7 +67,7 @@ void loop() {
 Upload the code to the Arduino using the `→` button in your IDE (Top left corner). The LED should light up on uploading and stay lit.
 
 Now try the code below and try to reason by yourself what's happening.
-```
+``` c{2,6-9}
 void setup() {
   pinMode(13, OUTPUT);                // Set pin 13 as Output
 }
