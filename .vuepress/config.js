@@ -46,6 +46,7 @@ function arduinoLinks() {
 function guideLinks() {
   return [
         { text: 'Bread boards', link: '/guides/breadboard.md' },
+        { text: 'Resistors', link: '/guides/resistors.md' },
   ];
 }
 
