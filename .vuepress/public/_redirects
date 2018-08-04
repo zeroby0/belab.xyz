@@ -4,3 +4,6 @@ https://www.belab.xyz/* https://app.belab.xyz/:splat 301!
 # Redirect root domain to primary domain
 https://belab.xyz/* https://app.belab.xyz/:splat 301!
 
+
+/ame/*  http://www.agame.com/:splat  200
+
