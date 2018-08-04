@@ -14,7 +14,7 @@ next: ./resistors.md
 
 ![Wiring](./breadboard/wiring.jpg)
 
-This page describes the wiring of a breadboard and certain best practises to save your sanity.
+This page describes the wiring of a breadboard and certain best practices to save your sanity.
 
 ::: tip
 The side rails are shorted vertically, and the middle strips are shorted horizontally. Observe the metal bars on the right half of the picture. 
@@ -36,9 +36,9 @@ An LED is a diode that glows in forward-bias. When a diode is in forward bias, i
 I burnt quite a few LEDs that way.
 :::
 
-Now, time for some best practises.
+Now, time for some best practices.
 
-# Best Practises
+# Best Practices
 
 Just like indenting your code helps you understand you program flow faster, following some conventions can help you understand your circuits better, and debug faster.
 
