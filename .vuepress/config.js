@@ -15,6 +15,8 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Labs', items: labLinks() },
 
+      { text: 'Guides', items: guideLinks() },
+
       { text: 'Arduino', items: arduinoLinks() },
 
       { text: 'Other', items: otherLinks() },
@@ -40,6 +42,14 @@ function arduinoLinks() {
         { text: 'LED Blink', link: '/arduino/ledblink.md' },
       ];
 }
+
+function guideLinks() {
+  return [
+        { text: 'Bread boards', link: '/guides/breadboard.md' },
+        { text: 'Resistors', link: '/guides/resistors.md' },
+  ];
+}
+
 
 function otherLinks() {
   return [
