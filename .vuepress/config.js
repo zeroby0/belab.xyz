@@ -21,11 +21,21 @@ module.exports = {
 
       { text: 'Other', items: otherLinks() },
 
-    ]
+    ],
+
+    sidebar: sidebarLinks(),
 
   }
 }
 
+
+function sidebarLinks() {
+  return {
+    '/guides/gnuplot/': [
+      '1'
+    ]
+  };
+}
 
 function labLinks() {
   return [
@@ -47,6 +57,7 @@ function guideLinks() {
   return [
         { text: 'Bread boards', link: '/guides/breadboard.md' },
         { text: 'Resistors', link: '/guides/resistors.md' },
+        { text: 'GNUplot', link: '/guides/gnuplot/1.md'},
   ];
 }
 
