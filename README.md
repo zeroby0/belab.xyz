@@ -33,6 +33,8 @@ This page works even when offline. Disconnect from WiFi and try it out :wink:
 </div>
 
 
+This website is hosted by [Netlify](https://www.netlify.com), and the source code is available at [zeroby0/belab.xyz](https://github.com/zeroby0/belab.xyz).
+
 ## Office Hours and Appointments
 
 Dr. Madhav Rao - [mr@iiitb.ac.in](mailto:mr@iiitb.ac.in) </br>

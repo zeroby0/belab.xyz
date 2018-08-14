@@ -16,7 +16,8 @@
   },
   "homepage": "https://belab.xyz",
   "private": true,
-  "devDependencies": {
-    "vuepress": "^0.13.1"
+  "devDependencies": {},
+  "dependencies": {
+    "vuepress": "^0.14.2"
   }
 }

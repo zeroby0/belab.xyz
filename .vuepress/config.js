@@ -32,7 +32,14 @@ module.exports = {
 function sidebarLinks() {
   return {
     '/guides/gnuplot/': [
-      '1'
+      '0/0',
+      '1/1',
+      '2/2',
+      '3/3',
+      '4/4',
+      '5/5',
+      '6/6',
+      '7/7'
     ]
   };
 }
@@ -57,7 +64,7 @@ function guideLinks() {
   return [
         { text: 'Bread boards', link: '/guides/breadboard.md' },
         { text: 'Resistors', link: '/guides/resistors.md' },
-        { text: 'GNUplot', link: '/guides/gnuplot/1.md'},
+        { text: 'GNUplot', link: '/guides/gnuplot/0/0.md'},
   ];
 }
 
