@@ -64,7 +64,8 @@ function guideLinks() {
   return [
         { text: 'Bread boards', link: '/guides/breadboard.md' },
         { text: 'Resistors', link: '/guides/resistors.md' },
-        { text: 'GNUplot', link: '/guides/gnuplot/0/0.md'},
+        { text: 'GNUplot', link: '/guides/gnuplot/0/0.md' },
+        { text: 'Lab Report', link: '/guides/labreport.md' }
   ];
 }
 
