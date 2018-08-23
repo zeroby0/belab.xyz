@@ -57,10 +57,3 @@ Example:
 * Don't add unnecessary images or content.
 * A simple report like [this](/pdf/IMT2015524.pdf) should do just fine.
 * If you're gonna add unnecessary images or content, go **full overboard**. Like [this](/pdf/Assignment3_IMT2015_524_504.pdf) or [this](/pdf/PrecisionRectifiers.pdf).
-
-
-
-## Tips on Excel :stuck_out_tongue:
-1. Don't use Excel.
-2. Avoid as much as possible.
-3. Try .
