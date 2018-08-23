@@ -40,6 +40,16 @@ Example:
 
 ![Content example](./labreport/content.png)
 
+## Graphs
+* Use [gnuplot](https://app.belab.xyz/guides/gnuplot/0/0.html).
+* The graph and the answer heading should be in the same page.
+* Should be vertically centered on the page.
+* Should contain X and Y numerical values on the axes, not in the middle of the plot.
+* The values should not be in exponential (X\*e^Y) form.
+* The labels for X and Y should be on the axes, not in the graph legend. The legend is to indicate the meaning of the line, not the units.
+* The label for X and Y should contain the correct units for the plot.
+
+
 
 ## General
 * Minimise the number of colours you use in the pdf, except for graphs.
@@ -53,4 +63,4 @@ Example:
 ## Tips on Excel :stuck_out_tongue:
 1. Don't use Excel.
 2. Avoid as much as possible.
-3. Try [gnuplot](https://app.belab.xyz/guides/gnuplot/0/0.html).
+3. Try .
