@@ -50,6 +50,7 @@ function labLinks() {
         { text: 'Lab 1', link: '/labs/1.md' },
         { text: 'Lab 2', link: '/labs/2.md' },
         { text: 'Lab 3', link: '/labs/3.md' },
+        { text: 'Lab 4', link: '/labs/4.md' },
       ];
 }
 
@@ -57,6 +58,7 @@ function arduinoLinks() {
   return [
         { text: 'Introduction', link: '/arduino/intro.md' },
         { text: 'LED Blink', link: '/arduino/ledblink.md' },
+        { text: 'Wire', link: '/arduino/wire.md' }
       ];
 }
 
