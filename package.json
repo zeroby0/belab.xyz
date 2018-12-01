@@ -14,10 +14,10 @@
   "bugs": {
     "url": "https://github.com/zeroby0/belab.xyz/issues"
   },
-  "homepage": "https://belab.xyz",
+  "homepage": "https://app.belab.xyz",
   "private": true,
   "devDependencies": {},
   "dependencies": {
-    "vuepress": "^0.14.2"
+    "vuepress": "^0.14.8"
   }
 }
