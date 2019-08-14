@@ -17,6 +17,7 @@ next: false
 ## Submission
 * Make sure your submission is a PDF. Other formats are not accepted.
 * Rename your submission to your rollnumber. For example, my submission would be `IMT2015524.pdf`.
+* Use [MS Word](https://www.office.com/launch/word). Other editors change the styling of the document (Especially the one that comes with Ubuntu).
 
 ## Template
 Available [here](/docs/Labreport.docx)
